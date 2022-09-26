@@ -3,6 +3,7 @@ Given an integer array nums, return true if any value appears at least twice in 
 and return false if every element is distinct.
 
 """
+# Empty Dictionary
 my_dict = {}
 List = [1, 2, 3, 4]
 contains_duplicate = False
